@@ -1,5 +1,6 @@
 public class Main {
     public static void main(String[] args){
+        //ok
         Speed snail = new Speed();
         snail.setInMS(0.001);
         System.out.println(snail.getInMS());
